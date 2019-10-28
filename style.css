@@ -1,0 +1,108 @@
+body {
+  background-color: lightpink;
+}
+#topbar {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  font-size: auto;
+  
+}
+#topbar h1{
+  font-size: 10vw;
+}
+#topbar h2 {
+  font-size: 6vw;
+}
+.bigbox {
+  background-color: white;
+  opacity: 60%;
+}
+
+i {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  padding: 17px;
+  margin: 20px;
+  top: 50%;
+  margin-right: 40px;
+  margin-bottom: 30px;
+}
+
+.left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+  padding: 17px;
+  margin: 25px;
+  margin-bottom:30px;
+  top: 50%;
+}
+
+.up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+  padding: 20px;
+  
+  margin: 25px;
+  top: 50%;
+  margin-top: 37px;
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  padding: 20px;
+  margin:25px;
+  top: 50%;
+  margin-bottom: 37px;
+}
+.arrows {
+  position:fixed;
+  margin: 0%;
+  margin-top: 344px;
+  padding: 25px;
+  background-color:aliceblue;
+  width: 500px;
+  //text-align: center;
+}
+.preview {
+  width: 100%;
+  height: 40%;
+  background-color:whitesmoke;
+  
+  
+}
+#image {
+  position: fixed; /* Sit on top of the page content */
+  display: block; /* Hidden by default */
+  width: 10%; /* Full width (cover the whole page) */
+  height: 10%; /* Full height (cover the whole page) */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  
+  z-index: 5; /* Specify a stack order in case you're using a different order for other elements */
+}
+#vid {
+}
+video {
+  position:fixed;
+  autoplay: true;
+  margin-top: -30px;
+}
+.icons {
+  text-align: center;
+  padding: 30px;
+}
+.icons image1{
+  margin-right: 0px;
+  background-color:skyblue;
+  border-radius: 5px;
+}
