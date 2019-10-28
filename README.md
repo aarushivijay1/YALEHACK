@@ -8,5 +8,8 @@ In this, we developed an appealing web application using CSS and HTML5 to let th
 
 ## GETTING STARTED 
 
-To use this following application, you should download the files on your desktop. Run the index.html file and then choose from the options. If you click on the hat, you will be asked to give the app the permission to use your camera. Allow it and then enjoy how the hat looks on you. Use the arrows to navigate the 3D object on your head!
+- To use this following application, you should download the files on your desktop. 
+- Run the index.html file and then choose from the options. 
+- If you click on the hat, you will be asked to give the app the permission to use your camera. 
+- Allow it and then enjoy how the hat looks on you. Use the arrows to navigate the 3D object on your head!
 
