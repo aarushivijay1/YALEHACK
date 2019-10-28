@@ -4,8 +4,6 @@ This was a team project build during the Hackathon held at Yale University. This
 
 In this, we developed an appealing web application using CSS and HTML5 to let the users choose the costumes they want to try on. (Hat is working for now). 
 
-- Developed the front-end by overlaying the live video stream with the 3D models using JavaScript. We are still working on adding more products and making the web app more attractive.
-
 ## GETTING STARTED 
 
 - To use this following application, you should download the files on your desktop. 
