@@ -2,7 +2,7 @@
 
 This was a team project build during the Hackathon held at Yale University. This extension was built for Twitch that would let the streamers try costumes on their characters. 
 
-In this, we developed an appealing web application using CSS and HTML5 to let the users choose the costumes they want to try on. (Hat is working for now). 
+In this, we developed an appealing web application using HTML5, CSS and JavaScript to let the users choose the costumes they want to try on. (Hat is working for now). 
 
 ## GETTING STARTED 
 
