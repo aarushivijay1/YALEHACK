@@ -12,7 +12,7 @@ In this, we developed an appealing web application using HTML5, CSS and JavaScri
 
 - A window will pop open in your default browser which would look like this - 
 
-![Screenshot 2019-11-16 at 3 04 33 AM](https://user-images.githubusercontent.com/52317352/68990198-5b2df100-081e-11ea-9eb8-45b8a928a28e.png)
+![Screenshot 2019-11-16 at 3 04 33 AM](https://user-images.githubusercontent.com/52317352/68990217-a8aa5e00-081e-11ea-8a97-2c893577f903.png)
 
 - Click on the item you want to choose. Next window will ask you to "Use your camera". Allow the webcam to be used by this application. The message looks like this - 
 
