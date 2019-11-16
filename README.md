@@ -17,8 +17,12 @@ In this, we developed an appealing web application using HTML5, CSS and JavaScri
 - Click on the item you want to choose. Next window will ask you to "Use your camera". Allow the webcam to be used by this application. The message looks like this - 
 
 
-To use this following application, you should download the files on your desktop. 
-- Run the index.html file and then choose from the options. 
-- If you click on the hat, you will be asked to give the app the permission to use your camera. 
-- Allow it and then enjoy how the hat looks on you. Use the arrows to navigate the 3D object on your head!
+![Screenshot 2019-11-16 at 3 04 41 AM](https://user-images.githubusercontent.com/52317352/68990226-c2e43c00-081e-11ea-9414-895232063acd.png)
+
+- Once you allow the camera to be used, you will see something like this - 
+
+
+- Next step is playing along with the arrows and trying different angles to get the item to fit!
+
+
 
