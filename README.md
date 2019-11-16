@@ -22,10 +22,17 @@ In this, we developed an appealing web application using HTML5, CSS and JavaScri
 - Once you allow the camera to be used, you will see something like this - 
 
 
-- Next step is playing along with the arrows and trying different angles to get the item to fit! Here are some examples of me playing around with the hat 
+- Next step is playing along with the arrows and trying different angles to get the item to fit!
+
+Here are some examples of me playing around with the hat 
 
 
 ![Screenshot 2019-11-16 at 6 45 18 PM](https://user-images.githubusercontent.com/52317352/69000688-b228da00-08a1-11ea-8953-1e0b54dc55dc.png)
+
+![Screenshot 2019-11-16 at 6 45 49 PM](https://user-images.githubusercontent.com/52317352/69000693-cbca2180-08a1-11ea-9a6c-8d2234525f7f.png)
+
+![Screenshot 2019-11-16 at 6 46 14 PM](https://user-images.githubusercontent.com/52317352/69000694-cd93e500-08a1-11ea-813b-e120e735a564.png)
+
 
 
 
