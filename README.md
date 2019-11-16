@@ -31,8 +31,6 @@ Here are some examples of me playing around with the hat
 
 ![Screenshot 2019-11-16 at 6 45 49 PM](https://user-images.githubusercontent.com/52317352/69000693-cbca2180-08a1-11ea-9a6c-8d2234525f7f.png)
 
-![Screenshot 2019-11-16 at 6 46 14 PM](https://user-images.githubusercontent.com/52317352/69000694-cd93e500-08a1-11ea-813b-e120e735a564.png)
-
 
 
 
