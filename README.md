@@ -25,6 +25,9 @@ In this, we developed an appealing web application using HTML5, CSS and JavaScri
 - Next step is playing along with the arrows and trying different angles to get the item to fit! Here are some examples of me playing around with the hat 
 
 
+![Screenshot 2019-11-16 at 6 45 18 PM](https://user-images.githubusercontent.com/52317352/69000688-b228da00-08a1-11ea-8953-1e0b54dc55dc.png)
+
+
 
 
 
