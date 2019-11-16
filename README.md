@@ -12,8 +12,11 @@ In this, we developed an appealing web application using HTML5, CSS and JavaScri
 
 - A window will pop open in your default browser which would look like this - 
 
-open the files in Virtual Studio Code or any other environment you are comfortable using for HTML.
-- 
+![Screenshot 2019-11-16 at 3 04 33 AM](https://user-images.githubusercontent.com/52317352/68990198-5b2df100-081e-11ea-9eb8-45b8a928a28e.png)
+
+- Click on the item you want to choose. Next window will ask you to "Use your camera". Allow the webcam to be used by this application. The message looks like this - 
+
+
 To use this following application, you should download the files on your desktop. 
 - Run the index.html file and then choose from the options. 
 - If you click on the hat, you will be asked to give the app the permission to use your camera. 
