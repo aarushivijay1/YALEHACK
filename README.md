@@ -2,9 +2,9 @@
 
 "Twitch Cosplay" was a team project build during the Hackathon held at Yale University. This extension was built for Twitch and Amazon Games that would let the streamers try costumes on their characters. 
 
-In this, we developed an appealing web application using HTML5, CSS and JavaScript to let the users choose the costumes they want to try on. This is me trying the hat feature provided by the application!
-
 ![Screenshot 2019-11-16 at 6 45 49 PM](https://user-images.githubusercontent.com/52317352/69000693-cbca2180-08a1-11ea-9a6c-8d2234525f7f.png)
+
+In this, we developed an appealing web application using HTML5, CSS and JavaScript to let the users choose the costumes they want to try on. This is me trying the hat feature provided by the application!
 
 ## HOW TO USE 
 
