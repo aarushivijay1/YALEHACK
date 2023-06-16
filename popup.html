@@ -5,13 +5,14 @@
     <meta name="viewport" content="width=device-width">
     <title>repl.it</title>
     <link href="style.css" rel="stylesheet" type="text/css" />
+	
     <style>
 #container {
   position:fixed;
 	margin: 0px auto;
 	width: 500px;
 	height: 375px;
-	//border: 10px #333 solid;
+	/* border: 10px #333 solid; */
 }
 #videoElement {
   position:fixed;
@@ -19,6 +20,24 @@
 	height: 375px;
 	background-color: #666;
   z-index:2;
+}
+img {
+    height: 205px;
+    position: absolute;
+    left: 500%;
+    top: 500%;
+}
+video#videoElement {
+    position: absolute;
+    left: 50%;
+    /* right: 50%; */
+    top: 50%;
+}
+
+.arrows {
+    position: absolute;
+    left: 50%;
+    top: 50%;
 }
 </style>
 </head>
@@ -35,12 +54,10 @@
 
     
 <div class = "arrows">
-  <i class="arrow left" onclick="moveLeft()"></i>
-   <i class="arrow right" onclick="moveRight()"></i>
-   
-  
-  <i class="arrow up" onclick="moveUp()"></i>
-  <i class="arrow down" onclick="moveDown()"></i> 
+    <i class="arrow left" onclick="moveLeft()"></i>
+	<i class="arrow right" onclick="moveRight()"></i>   
+  	<i class="arrow up" onclick="moveUp()"></i>
+  	<i class="arrow down" onclick="moveDown()"></i> 
   </div>
 </div>
 </body>

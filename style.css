@@ -1,5 +1,5 @@
 body {
-  background-color: lightpink;
+  background-color: rgb(253, 243, 233);
 }
 #topbar {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -17,7 +17,12 @@ body {
   background-color: white;
   opacity: 60%;
 }
-
+img#image1 {
+  position: absolute;
+  right: auto;
+  left: 45%;
+  bottom: 10%;
+}
 i {
   border: solid black;
   border-width: 0 3px 3px 0;
@@ -69,7 +74,7 @@ i {
   padding: 25px;
   background-color:aliceblue;
   width: 500px;
-  //text-align: center;
+  text-align: center;
 }
 .preview {
   width: 100%;
