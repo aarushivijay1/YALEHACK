@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(253, 243, 233);
+  background-image: url('https://images.pexels.com/photos/164005/pexels-photo-164005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
 }
 #topbar {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -9,12 +9,13 @@ body {
 }
 #topbar h1{
   font-size: 10vw;
+  color: #156083c7;
 }
 #topbar h2 {
   font-size: 6vw;
 }
 .bigbox {
-  background-color: white;
+  background-color: rgb(2, 0, 0);
   opacity: 60%;
 }
 img#image1 {
@@ -24,7 +25,7 @@ img#image1 {
   top: 70%;
 }
 i {
-  border: solid black;
+  border: solid rgb(251, 251, 251);
   border-width: 0 3px 3px 0;
   display: inline-block;
   padding: 3px;
@@ -72,7 +73,7 @@ i {
   margin: 0%;
   margin-top: 344px;
   padding: 25px;
-  background-color:aliceblue;
+  background-color:rgb(0, 0, 0);
   width: 500px;
   text-align: center;
 }
@@ -113,7 +114,7 @@ video {
 }
 button {
   position: absolute;
-  left: 95%;
+  left: 140%;
   top: 175%;
   height: 10%;
   width: 20%;
@@ -143,18 +144,33 @@ button {
 img {
   height: 110px;
   position: absolute;
-  left: 500%;
-  top: 500%;
+  left: 1000%;
+  top: 400%;
 }
 video#videoElement {
     position: absolute;
-    left: 50%;
-    /* right: 50%; */
-    top: 50%;
+    left: 100%;
+    top: 40%;
 }
 
 .arrows {
     position: absolute;
     left: 50%;
     top: 50%;
+}
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently
+  supported by Chrome, Edge, Opera and Firefox */
+}
+
+.arrows.noselect {
+  position: absolute;
+  width: 90%;
+  left: 100%;
+  top: 40%;
 }
