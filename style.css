@@ -21,7 +21,7 @@ img#image1 {
   position: absolute;
   right: auto;
   left: 45%;
-  bottom: 10%;
+  top: 70%;
 }
 i {
   border: solid black;
@@ -110,4 +110,51 @@ video {
   margin-right: 0px;
   background-color:skyblue;
   border-radius: 5px;
+}
+button {
+  position: absolute;
+  left: 95%;
+  top: 175%;
+  height: 10%;
+  width: 20%;
+  border-radius: 50px;
+  background: #666666a3;
+  color: #000;
+  font-family: -webkit-body;
+  font-size: large;
+}
+
+
+
+#container {
+  position:fixed;
+	margin: 0px auto;
+	width: 500px;
+	height: 375px;
+	/* border: 10px #333 solid; */
+}
+#videoElement {
+  position:fixed;
+	width: 500px;
+	height: 375px;
+	background-color: #666;
+  z-index:2;
+}
+img {
+  height: 110px;
+  position: absolute;
+  left: 500%;
+  top: 500%;
+}
+video#videoElement {
+    position: absolute;
+    left: 50%;
+    /* right: 50%; */
+    top: 50%;
+}
+
+.arrows {
+    position: absolute;
+    left: 50%;
+    top: 50%;
 }
